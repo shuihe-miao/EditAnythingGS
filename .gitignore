@@ -1,0 +1,33 @@
+# Large experiment artifacts
+data/
+output/
+logs/
+workspace*/
+pretrained/
+checkpoints/
+ckpt/
+weights/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+
+# Rendered media and generated assets
+*.mp4
+*.gif
+*.ply
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
