@@ -6,7 +6,14 @@ workspace*/
 pretrained/
 checkpoints/
 ckpt/
-weights/
+weights/*
+!weights/README.md
+releases/
+
+# Dataset policy: keep full datasets outside the main Git history.
+# Keep dataset/README.md as a placeholder and distribute full data separately.
+dataset/*
+!dataset/README.md
 *.pth
 *.pt
 *.ckpt
@@ -30,4 +37,3 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
-
