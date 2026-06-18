@@ -158,6 +158,10 @@ sanity checks are documented in [docs/RESULTS.md](docs/RESULTS.md).
 Reference dataset download:
 [Google Drive](https://drive.google.com/drive/folders/1p9jbg28zGjfWnzGB-hka7sY-CYfn9VWL?usp=sharing).
 
+## Results
+
+![EditAnythingGS result overview](assets/result_overview.png)
+
 ## Running on Your Own Scene
 
 To adapt the workflow to another scene:
